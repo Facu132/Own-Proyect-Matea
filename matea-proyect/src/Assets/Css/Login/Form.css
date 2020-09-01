@@ -1,0 +1,8 @@
+.Form__circular-div {
+    height: 45px;
+    width: 45px;
+    background-color: #F50057;
+    border-radius: 50%;
+    display: flex;
+    margin: auto;
+}
